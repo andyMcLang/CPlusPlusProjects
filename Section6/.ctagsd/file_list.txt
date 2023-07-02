@@ -1,0 +1,2 @@
+C:\udemy matskut\beginning-c-plus-plus-programming\Section6\Hiekkalaatikko\main.cpp
+C:\udemy matskut\beginning-c-plus-plus-programming\Section6\SectionChallenge\main.cpp
