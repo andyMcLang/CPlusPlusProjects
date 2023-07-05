@@ -3,7 +3,8 @@
   <Project Name="Arrays" Path="Arrays/Arrays.project" Active="No"/>
   <Project Name="CodingExercise5" Path="CodingExercise5/CodingExercise5.project" Active="No"/>
   <Project Name="Hiekkalaatikko" Path="Hiekkalaatikko/Hiekkalaatikko.project" Active="No"/>
-  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="Yes"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
+  <Project Name="SectionChallenge" Path="SectionChallenge/SectionChallenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -11,6 +12,7 @@
       <Project Name="CodingExercise5" ConfigName="Debug"/>
       <Project Name="Hiekkalaatikko" ConfigName="Debug"/>
       <Project Name="Vectors" ConfigName="Debug"/>
+      <Project Name="SectionChallenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -18,6 +20,7 @@
       <Project Name="CodingExercise5" ConfigName="Release"/>
       <Project Name="Hiekkalaatikko" ConfigName="Release"/>
       <Project Name="Vectors" ConfigName="Release"/>
+      <Project Name="SectionChallenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

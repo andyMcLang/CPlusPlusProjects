@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Vectors - Debug ]----------"
-	@cd "Vectors" && "$(MAKE)" -f  "Vectors.mk"
+	@echo "----------Building project:[ SectionChallenge - Debug ]----------"
+	@cd "SectionChallenge" && "$(MAKE)" -f  "SectionChallenge.mk"
 clean:
-	@echo "----------Cleaning project:[ Vectors - Debug ]----------"
-	@cd "Vectors" && "$(MAKE)" -f  "Vectors.mk" clean
+	@echo "----------Cleaning project:[ SectionChallenge - Debug ]----------"
+	@cd "SectionChallenge" && "$(MAKE)" -f  "SectionChallenge.mk" clean
