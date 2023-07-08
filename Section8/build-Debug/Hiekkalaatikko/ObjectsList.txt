@@ -1,0 +1,1 @@
+../build-Debug/Hiekkalaatikko/main.cpp.o   
