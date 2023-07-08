@@ -1,4 +1,8 @@
 [{
+  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section8\\RelationalOperators\\main.cpp",
+  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section8\\RelationalOperators",
+  "command": "C:/MinGW/bin/g++.exe -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section8\\RelationalOperators\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section8\\RelationalOperators\\main.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section8\\EqualityOperatos\\main.cpp",
   "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section8\\EqualityOperatos",
   "command": "C:/MinGW/bin/g++.exe -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section8\\EqualityOperatos\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section8\\EqualityOperatos\\main.cpp\".o -target mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -Ic:\\MinGW\\mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
