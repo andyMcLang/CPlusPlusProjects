@@ -1,3 +1,4 @@
+C:\udemy matskut\beginning-c-plus-plus-programming\Section8\LogicalOperators\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section8\RelationalOperators\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section8\EqualityOperatos\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section8\MixedExpressions\main.cpp

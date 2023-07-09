@@ -4,7 +4,8 @@
   <Project Name="MixedExpressions" Path="MixedExpressions/MixedExpressions.project" Active="No"/>
   <Project Name="Hiekkalaatikko" Path="Hiekkalaatikko/Hiekkalaatikko.project" Active="No"/>
   <Project Name="EqualityOperators" Path="EqualityOperatos/EqualityOperatos.project" Active="No"/>
-  <Project Name="RelationalOperators" Path="RelationalOperators/RelationalOperators.project" Active="Yes"/>
+  <Project Name="RelationalOperators" Path="RelationalOperators/RelationalOperators.project" Active="No"/>
+  <Project Name="LogicalOperators" Path="LogicalOperators/LogicalOperators.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -13,6 +14,7 @@
       <Project Name="Hiekkalaatikko" ConfigName="Debug"/>
       <Project Name="EqualityOperators" ConfigName="Debug"/>
       <Project Name="RelationalOperators" ConfigName="Debug"/>
+      <Project Name="LogicalOperators" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -21,6 +23,7 @@
       <Project Name="Hiekkalaatikko" ConfigName="Release"/>
       <Project Name="EqualityOperators" ConfigName="Release"/>
       <Project Name="RelationalOperators" ConfigName="Release"/>
+      <Project Name="LogicalOperators" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
