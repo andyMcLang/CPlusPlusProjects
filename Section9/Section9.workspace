@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section9" Database="" Version="10000">
+  <Project Name="IfElseStatement" Path="IfElseStatement/IfElseStatement.project" Active="Yes"/>
+  <Project Name="Hiekkalaatikko" Path="Hiekkalaatikko/Hiekkalaatikko.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="IfElseStatement" ConfigName="Debug"/>
+      <Project Name="Hiekkalaatikko" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="IfElseStatement" ConfigName="Release"/>
+      <Project Name="Hiekkalaatikko" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
