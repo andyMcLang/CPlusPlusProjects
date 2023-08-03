@@ -1,5 +1,6 @@
 C:\udemy matskut\beginning-c-plus-plus-programming\Section9\SwitchEnum\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section9\Switch\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section9\Shipping\main.cpp
+C:\udemy matskut\beginning-c-plus-plus-programming\Section9\ConditionalOperator\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section9\Hiekkalaatikko\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section9\IfElseStatement\main.cpp
