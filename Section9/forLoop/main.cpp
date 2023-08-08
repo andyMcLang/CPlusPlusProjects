@@ -26,7 +26,7 @@ int main()
     }
     
     cout << "\n========================================\n" << endl;
-    cout << "vector<int> unsigned inst test:" << endl;
+    cout << "vector<int> unsigned int test:" << endl;
     
     vector<int> nums {10,20,30,40,50};
     
