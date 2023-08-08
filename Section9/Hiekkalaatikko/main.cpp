@@ -8,4 +8,4 @@ int main() {
     return 0;
 }
 
-// test
+// takaisin kannettavaan pöytäkoneesta commit update
