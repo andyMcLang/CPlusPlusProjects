@@ -1,29 +1,29 @@
 [{
-  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\forLoop\\main.cpp",
-  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\forLoop",
-  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\forLoop\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\forLoop\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+  "file": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\forLoop\\main.cpp",
+  "directory": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\forLoop",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\forLoop\\main.cpp -o D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\forLoop\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0 -IC:\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
-  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\SwitchEnum\\main.cpp",
-  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\SwitchEnum",
-  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\SwitchEnum\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\SwitchEnum\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+  "file": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\SwitchEnum\\main.cpp",
+  "directory": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\SwitchEnum",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\SwitchEnum\\main.cpp -o D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\SwitchEnum\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0 -IC:\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
-  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\Switch\\main.cpp",
-  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\Switch",
-  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\Switch\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\Switch\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+  "file": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\Switch\\main.cpp",
+  "directory": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\Switch",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\Switch\\main.cpp -o D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\Switch\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0 -IC:\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
-  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\Shipping\\main.cpp",
-  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\Shipping",
-  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\Shipping\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\Shipping\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+  "file": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\Shipping\\main.cpp",
+  "directory": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\Shipping",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\Shipping\\main.cpp -o D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\Shipping\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0 -IC:\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
-  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\ConditionalOperator\\main.cpp",
-  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\ConditionalOperator",
-  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\ConditionalOperator\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\ConditionalOperator\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+  "file": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\ConditionalOperator\\main.cpp",
+  "directory": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\ConditionalOperator",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\ConditionalOperator\\main.cpp -o D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\ConditionalOperator\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0 -IC:\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
-  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\Hiekkalaatikko\\main.cpp",
-  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\Hiekkalaatikko",
-  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\Hiekkalaatikko\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\Hiekkalaatikko\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+  "file": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\Hiekkalaatikko\\main.cpp",
+  "directory": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\Hiekkalaatikko",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\Hiekkalaatikko\\main.cpp -o D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\Hiekkalaatikko\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0 -IC:\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
-  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\IfElseStatement\\main.cpp",
-  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\IfElseStatement",
-  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\IfElseStatement\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section9\\IfElseStatement\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+  "file": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\IfElseStatement\\main.cpp",
+  "directory": "D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\IfElseStatement",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\IfElseStatement\\main.cpp -o D:\\udemy_courses\\beginning-c-plus-plus-programming\\Section9\\IfElseStatement\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0 -IC:\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }]

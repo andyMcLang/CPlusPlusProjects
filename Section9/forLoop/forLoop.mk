@@ -6,19 +6,19 @@
 ProjectName            :=forLoop
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :="C:/udemy matskut/beginning-c-plus-plus-programming/Section9"
-ProjectPath            :="C:/udemy matskut/beginning-c-plus-plus-programming/Section9/forLoop"
+WorkspacePath          :=D:/udemy_courses/beginning-c-plus-plus-programming/Section9
+ProjectPath            :=D:/udemy_courses/beginning-c-plus-plus-programming/Section9/forLoop
 IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/forLoop
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=djdre
-Date                   :=8/4/2023
+Date                   :=08/08/2023
 CodeLitePath           :="C:/Program Files/CodeLite"
 MakeDirCommand         :=mkdir
-LinkerName             :=C:/MinGW/bin/g++.exe
-SharedObjectLinkerName :=C:/MinGW/bin/g++.exe -shared -fPIC
+LinkerName             :=C:/mingw64/bin/g++.exe
+SharedObjectLinkerName :=C:/mingw64/bin/g++.exe -shared -fPIC
 ObjectSuffix           :=.o
 DependSuffix           :=
 PreprocessSuffix       :=.i
@@ -29,7 +29,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=C:/udemy matskut/beginning-c-plus-plus-programming/Section9/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=D:/udemy_courses/beginning-c-plus-plus-programming/Section9/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=
 ObjectSwitch           :=-o 
@@ -38,7 +38,7 @@ PreprocessOnlySwitch   :=-E
 ObjectsFileList        :=$(IntermediateDirectory)/ObjectsList.txt
 PCHCompileFlags        :=
 RcCmpOptions           := 
-RcCompilerName         :=C:/MinGW/bin/windres.exe
+RcCompilerName         :=C:/mingw64/bin/windres.exe
 LinkOptions            :=  -static
 IncludePath            :=  $(IncludeSwitch). $(IncludeSwitch). 
 IncludePCH             := 
@@ -51,13 +51,13 @@ LibPath                := $(LibraryPathSwitch).
 ## Common variables
 ## AR, CXX, CC, AS, CXXFLAGS and CFLAGS can be overridden using an environment variable
 ##
-AR       := C:/MinGW/bin/ar.exe -r
-CXX      := C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o "$(OutDir)/$(TargetName)" $(Sources)
-CC       := C:/MinGW/bin/gcc.exe
+AR       := C:/mingw64/bin/ar.exe -r
+CXX      := C:/mingw64/bin/g++.exe
+CC       := C:/mingw64/bin/gcc.exe
 CXXFLAGS :=  -O0 -gdwarf-2 -std=c++17 -Wall $(Preprocessors)
 CFLAGS   :=  -gdwarf-2 -O0 -Wall $(Preprocessors)
 ASFLAGS  := 
-AS       := C:/MinGW/bin/as.exe
+AS       := C:/mingw64/bin/as.exe
 
 
 ##
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/udemy matskut/beginning-c-plus-plus-programming/Section9/forLoop/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "D:/udemy_courses/beginning-c-plus-plus-programming/Section9/forLoop/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

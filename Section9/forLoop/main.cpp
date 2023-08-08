@@ -24,6 +24,15 @@ int main()
             cout << i << ((i % 10 == 0) ? "\n" : " ");
         }
     }
+    
+    cout << "\n========================================\n" << endl;
+    cout << "vector<int> unsigned inst test:" << endl;
+    
+    vector<int> nums {10,20,30,40,50};
+    
+    for (unsigned i {0}; i < nums.size(); i++) {
+        cout << nums[i] << " ";
+    }
 
     return 0;
 }
