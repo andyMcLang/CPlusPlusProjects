@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="D:\udemy_courses\beginning-c-plus-plus-programming\Section9\Section9.workspace">
+<Session Name="C:\udemy matskut\beginning-c-plus-plus-programming\Section9\Section9.workspace">
   <int Value="0" Name="m_selectedTab"/>
-  <wxString Value="D:\udemy_courses\beginning-c-plus-plus-programming\Section9\Section9.workspace" Name="m_workspaceName"/>
+  <wxString Value="C:\udemy matskut\beginning-c-plus-plus-programming\Section9\Section9.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="D:\udemy_courses\beginning-c-plus-plus-programming\Section9\RangeBasedForLoop\main.cpp" Name="FileName"/>
-      <int Value="21" Name="FirstVisibleLine"/>
-      <int Value="36" Name="CurrentLine"/>
+      <wxString Value="C:\udemy matskut\beginning-c-plus-plus-programming\Section9\CodingExercise16\main.cpp" Name="FileName"/>
+      <int Value="9" Name="FirstVisibleLine"/>
+      <int Value="23" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

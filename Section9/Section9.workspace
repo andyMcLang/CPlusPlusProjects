@@ -10,7 +10,8 @@
   <Project Name="CodingExerice14" Path="CodingExerice14/CodingExerice14.project" Active="No"/>
   <Project Name="RangeBasedForLoop" Path="RangeBasedForLoop/RangeBasedForLoop.project" Active="No"/>
   <Project Name="CodingExercise15" Path="CodingExercise15/CodingExercise15.project" Active="No"/>
-  <Project Name="WhileLoop" Path="WhileLoop/WhileLoop.project" Active="Yes"/>
+  <Project Name="WhileLoop" Path="WhileLoop/WhileLoop.project" Active="No"/>
+  <Project Name="CodingExercise16" Path="CodingExercise16/CodingExercise16.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -25,6 +26,7 @@
       <Project Name="RangeBasedForLoop" ConfigName="Debug"/>
       <Project Name="CodingExercise15" ConfigName="Debug"/>
       <Project Name="WhileLoop" ConfigName="Debug"/>
+      <Project Name="CodingExercise16" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -39,6 +41,7 @@
       <Project Name="RangeBasedForLoop" ConfigName="Release"/>
       <Project Name="CodingExercise15" ConfigName="Release"/>
       <Project Name="WhileLoop" ConfigName="Release"/>
+      <Project Name="CodingExercise16" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
