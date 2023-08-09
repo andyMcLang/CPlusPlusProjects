@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Histogram - Debug ]----------"
-	@cd "Histogram" && "$(MAKE)" -f  "Histogram.mk"
+	@echo "----------Building project:[ CodingExercise17 - Debug ]----------"
+	@cd "CodingExercise17" && "$(MAKE)" -f  "CodingExercise17.mk"
 clean:
-	@echo "----------Cleaning project:[ Histogram - Debug ]----------"
-	@cd "Histogram" && "$(MAKE)" -f  "Histogram.mk" clean
+	@echo "----------Cleaning project:[ CodingExercise17 - Debug ]----------"
+	@cd "CodingExercise17" && "$(MAKE)" -f  "CodingExercise17.mk" clean
