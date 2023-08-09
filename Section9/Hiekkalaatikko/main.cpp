@@ -1,46 +1,34 @@
-#include <iostream>
 
+#include <iostream>
+#include <vector>
 using namespace std;
+
+int count_numbers(const vector<int>& vec)
+{
+    //---- WRITE YOUR CODE BELOW THIS LINE----
+    int count{ 0 };
+    size_t index{ 0 };
+
+    while(index < vec.size() && vec.at(index) != -99) {
+        index++;
+        count++;
+        cout << "index: " << index << endl;
+        cout << vec.at(index) << endl;
+        cout << endl;
+    }
+
+    //---- WRITE YOUR CODE ABOVE THIS LINE----
+    //---- DO NOT MODIFY THE CODE BELOW THIS LINE-----
+    return count;
+}
 
 int main()
 {
-    int i{ 1 };
 
-    while(i <= 10) {
-        if(i % 2 == 0)
-            cout << i << endl;
-        ++i;
-    }
+    vector<int> vec{ 10, 20, 30, 40, 50, -99, 60, 70, 80 };
+    int result = count_numbers(vec);
 
-    cout << "\n==================================\n";
-
-    int scores[]{ 100, 90, 87 };
-    i = 0;
-
-    while(i < sizeof(scores) / sizeof(scores[0])) {
-        cout << scores[i] << endl;
-        ++i;
-    }
-
-    cout << "\n==================================\n";
-
-    int number{ 0 };
-    bool done{ false };
-    cout << "anna numero 5 ja 9 välillä: ";
-
-    while(!done) {
-
-        cin >> number;
-        if(number < 5 || number > 9) {
-            cout << "Toistan:anna numero 5 ja 9 välillä: ";
-        } else {
-            done = true;
-        }
-    }
-
-    cout << "Syottamasi numero on: " << number << endl;
-
-    cout << "\n==================================\n";
+    cout << "Number of integers before -99: " << result << endl;
 
     return 0;
 }
