@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section9" Database="" Version="10000">
   <Project Name="IfElseStatement" Path="IfElseStatement/IfElseStatement.project" Active="No"/>
-  <Project Name="Hiekkalaatikko" Path="Hiekkalaatikko/Hiekkalaatikko.project" Active="No"/>
+  <Project Name="Hiekkalaatikko" Path="Hiekkalaatikko/Hiekkalaatikko.project" Active="Yes"/>
   <Project Name="Shipping" Path="Shipping/Shipping.project" Active="No"/>
   <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
   <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
@@ -16,7 +16,7 @@
   <Project Name="MultiplicationTable" Path="MultiplicationTable/MultiplicationTable.project" Active="No"/>
   <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
   <Project Name="CodingExercise17" Path="CodingExercise17/CodingExercise17.project" Active="No"/>
-  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>

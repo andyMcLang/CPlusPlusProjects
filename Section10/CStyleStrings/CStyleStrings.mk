@@ -3,18 +3,18 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Hiekkalaatikko
+ProjectName            :=CStyleStrings
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :="C:/udemy matskut/beginning-c-plus-plus-programming/Section9"
-ProjectPath            :="C:/udemy matskut/beginning-c-plus-plus-programming/Section9/Hiekkalaatikko"
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Hiekkalaatikko
+WorkspacePath          :="C:/udemy matskut/beginning-c-plus-plus-programming/Section10"
+ProjectPath            :="C:/udemy matskut/beginning-c-plus-plus-programming/Section10/CStyleStrings"
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/CStyleStrings
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=djdre
-Date                   :=8/10/2023
+Date                   :=8/11/2023
 CodeLitePath           :="C:/Program Files/CodeLite"
 MakeDirCommand         :=mkdir
 LinkerName             :=C:/MinGW/bin/g++.exe
@@ -29,7 +29,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=C:/udemy matskut/beginning-c-plus-plus-programming/Section9/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=C:/udemy matskut/beginning-c-plus-plus-programming/Section10/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=
 ObjectSwitch           :=-o 
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/udemy matskut/beginning-c-plus-plus-programming/Section9/Hiekkalaatikko/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/udemy matskut/beginning-c-plus-plus-programming/Section10/CStyleStrings/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 
