@@ -1,3 +1,7 @@
+C:\udemy matskut\beginning-c-plus-plus-programming\Section10\CodingExercise20\main.cpp
+C:\udemy matskut\beginning-c-plus-plus-programming\Section10\Challenge\main.cpp
+C:\udemy matskut\beginning-c-plus-plus-programming\Section10\CodingExercise19\main.cpp
+C:\udemy matskut\beginning-c-plus-plus-programming\Section10\CPPStrings\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section10\CodingExercise18\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section10\CStyleStrings\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section10\Hiekkalaatikko\main.cpp

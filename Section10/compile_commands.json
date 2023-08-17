@@ -1,4 +1,20 @@
 [{
+  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CodingExercise20\\main.cpp",
+  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CodingExercise20",
+  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CodingExercise20\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CodingExercise20\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\Challenge\\main.cpp",
+  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\Challenge",
+  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\Challenge\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\Challenge\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CodingExercise19\\main.cpp",
+  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CodingExercise19",
+  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CodingExercise19\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CodingExercise19\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CPPStrings\\main.cpp",
+  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CPPStrings",
+  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CPPStrings\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CPPStrings\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CodingExercise18\\main.cpp",
   "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CodingExercise18",
   "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CodingExercise18\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section10\\CodingExercise18\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
