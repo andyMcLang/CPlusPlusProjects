@@ -3,12 +3,12 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Hiekkalaatikko
+ProjectName            :=Assignment1
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :="C:/udemy matskut/beginning-c-plus-plus-programming/Section10"
-ProjectPath            :="C:/udemy matskut/beginning-c-plus-plus-programming/Section10/Hiekkalaatikko"
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Hiekkalaatikko
+ProjectPath            :="C:/udemy matskut/beginning-c-plus-plus-programming/Section10/Assignment1"
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Assignment1
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/udemy matskut/beginning-c-plus-plus-programming/Section10/Hiekkalaatikko/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/udemy matskut/beginning-c-plus-plus-programming/Section10/Assignment1/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

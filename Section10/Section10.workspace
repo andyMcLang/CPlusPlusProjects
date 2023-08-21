@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section10" Database="" Version="10000">
-  <Project Name="Hiekkalaatikko" Path="Hiekkalaatikko/Hiekkalaatikko.project" Active="No"/>
+  <Project Name="Hiekkalaatikko" Path="Hiekkalaatikko/Hiekkalaatikko.project" Active="Yes"/>
   <Project Name="CStyleStrings" Path="CStyleStrings/CStyleStrings.project" Active="No"/>
   <Project Name="CodingExercise18" Path="CodingExercise18/CodingExercise18.project" Active="No"/>
   <Project Name="CPPStrings" Path="CPPStrings/CPPStrings.project" Active="No"/>
   <Project Name="CodingExercise19" Path="CodingExercise19/CodingExercise19.project" Active="No"/>
   <Project Name="CodingExercise20" Path="CodingExercise20/CodingExercise20.project" Active="No"/>
-  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
+  <Project Name="Assignment1" Path="Assignment1/Assignment1.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -17,6 +18,7 @@
       <Project Name="CodingExercise19" ConfigName="Debug"/>
       <Project Name="CodingExercise20" ConfigName="Debug"/>
       <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="Assignment1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -27,6 +29,7 @@
       <Project Name="CodingExercise19" ConfigName="Release"/>
       <Project Name="CodingExercise20" ConfigName="Release"/>
       <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="Assignment1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

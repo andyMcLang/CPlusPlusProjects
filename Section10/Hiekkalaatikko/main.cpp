@@ -1,18 +1,41 @@
 #include <iostream>
-#include <cstring> // for c-style string functions
-#include <cctype> // for character-based functions
+#include <string>
+
+// Kysytään käyttäjältä sanoja tai lauseita ja muodostetaan sanoista kuusi-kuvio
 
 using namespace std;
 
-int main() {
-    char first_name[20];
-    char last_name[20];
-    char full_name[20];
-    char temp[50];
-    
-    cout << first_name_name; // Will likely display garbage!
-    
-    
-    
+int main()
+{
+    string sana;
+    cout << "Anna sana tai lause: ";
+    getline(cin, sana);
+    int riveja = sana.length();
+    int sijainti{ 0 };
+
+    for(char kirjain : sana) {
+        size_t valeja = riveja - sijainti;
+        while(valeja > 1) {
+            cout << " ";
+            valeja--;
+        }
+
+        for(int j = 0; j < sijainti; j++) {
+            cout << sana.at(j);
+        }
+
+        cout << kirjain;
+
+        for(int j = sijainti - 1; j >= 0; j--) {
+            cout << sana.at(j);
+            cout << "<Eka kierros j-arvolla: " << j << "> ";
+        }
+
+        cout << endl;
+        sijainti++;
+    }
+
+    cout << "\n=========================================\n";
+
     return 0;
 }
