@@ -3,12 +3,12 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Hiekkalaatikko
+ProjectName            :=CodingExercise21
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
-WorkspacePath          :="C:/udemy matskut/beginning-c-plus-plus-programming/Section10"
-ProjectPath            :="C:/udemy matskut/beginning-c-plus-plus-programming/Section10/Hiekkalaatikko"
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Hiekkalaatikko
+WorkspacePath          :="C:/udemy matskut/beginning-c-plus-plus-programming/Section11"
+ProjectPath            :="C:/udemy matskut/beginning-c-plus-plus-programming/Section11/CodingExercise21"
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/CodingExercise21
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
@@ -29,7 +29,7 @@ OutputSwitch           :=-o
 LibraryPathSwitch      :=-L
 PreprocessorSwitch     :=-D
 SourceSwitch           :=-c 
-OutputDirectory        :=C:/udemy matskut/beginning-c-plus-plus-programming/Section10/build-$(WorkspaceConfiguration)/bin
+OutputDirectory        :=C:/udemy matskut/beginning-c-plus-plus-programming/Section11/build-$(WorkspaceConfiguration)/bin
 OutputFile             :=..\build-$(WorkspaceConfiguration)\bin\$(ProjectName).exe
 Preprocessors          :=
 ObjectSwitch           :=-o 
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/udemy matskut/beginning-c-plus-plus-programming/Section10/Hiekkalaatikko/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/udemy matskut/beginning-c-plus-plus-programming/Section11/CodingExercise21/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

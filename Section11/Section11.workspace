@@ -2,19 +2,22 @@
 <CodeLite_Workspace Name="Section11" Database="" Version="10000">
   <Project Name="Math" Path="Math/Math.project" Active="No"/>
   <Project Name="Hiekkalaatikko" Path="Hiekkalaatikko/Hiekkalaatikko.project" Active="No"/>
-  <Project Name="Random" Path="Random/Random.project" Active="Yes"/>
+  <Project Name="Random" Path="Random/Random.project" Active="No"/>
+  <Project Name="CodingExercise21" Path="CodingExercise21/CodingExercise21.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="Math" ConfigName="Debug"/>
       <Project Name="Hiekkalaatikko" ConfigName="Debug"/>
       <Project Name="Random" ConfigName="Debug"/>
+      <Project Name="CodingExercise21" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="Math" ConfigName="Release"/>
       <Project Name="Hiekkalaatikko" ConfigName="Release"/>
       <Project Name="Random" ConfigName="Release"/>
+      <Project Name="CodingExercise21" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
