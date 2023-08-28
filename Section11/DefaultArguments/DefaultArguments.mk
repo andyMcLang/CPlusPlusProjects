@@ -3,18 +3,18 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Hiekkalaatikko
+ProjectName            :=DefaultArguments
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :="C:/udemy matskut/beginning-c-plus-plus-programming/Section11"
-ProjectPath            :="C:/udemy matskut/beginning-c-plus-plus-programming/Section11/Hiekkalaatikko"
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Hiekkalaatikko
+ProjectPath            :="C:/udemy matskut/beginning-c-plus-plus-programming/Section11/DefaultArguments"
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/DefaultArguments
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
 CurrentFileFullPath    :=
 User                   :=djdre
-Date                   :=8/28/2023
+Date                   :=8/29/2023
 CodeLitePath           :="C:/Program Files/CodeLite"
 MakeDirCommand         :=mkdir
 LinkerName             :=C:/MinGW/bin/g++.exe
@@ -96,7 +96,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp 
-	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/udemy matskut/beginning-c-plus-plus-programming/Section11/Hiekkalaatikko/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "C:/udemy matskut/beginning-c-plus-plus-programming/Section11/DefaultArguments/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(PreprocessSuffix): main.cpp
 	$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) $(PreprocessOnlySwitch) $(OutputSwitch) $(IntermediateDirectory)/main.cpp$(PreprocessSuffix) main.cpp
 

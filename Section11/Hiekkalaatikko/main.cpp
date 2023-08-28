@@ -3,35 +3,19 @@
 
 using namespace std;
 
+double laske_verollinen_hinta(double alkuhinta, double vero, double toimituskulut);
+
+double laske_verollinen_hinta(double alkuhinta, double vero = 0.07, double toimituskulut = 3.5)
+{
+    return alkuhinta += (alkuhinta * vero) + toimituskulut;
+}
+
 int main()
 {
-    string sana;
-    cout << "Anna sanasi: ";
-    getline(cin, sana);
-    int riveja = sana.length();
+    double tuotteen_hinta{};
+    tuotteen_hinta = laske_verollinen_hinta(100);
 
-    int sijainti{ 0 };
-
-    for(char kirjain : sana) {
-        int valeja = riveja - sijainti;
-/*
-        for(int j = 0; j < valeja; j++) {
-            cout << " ";
-        }
-
-        for(int j = 0; j < sijainti; j++) {
-            cout << sana.at(j);
-        }
-*/
-        cout << kirjain;
-
-        for(int j = sijainti - 1; j >= 0; j--) {
-            cout << sana.at(j);
-        }
-
-        cout << endl;
-        sijainti++;
-    }
+    cout << "Tuotteen verollinen hinta: " << tuotteen_hinta;
 
     return 0;
 }
