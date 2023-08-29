@@ -11,6 +11,10 @@
   "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\FunctionDefinitions",
   "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\FunctionDefinitions\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\FunctionDefinitions\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
  }, {
+  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\CodingExercise23\\main.cpp",
+  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\CodingExercise23",
+  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\CodingExercise23\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\CodingExercise23\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\FunctionParameters\\main.cpp",
   "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\FunctionParameters",
   "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\FunctionParameters\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\FunctionParameters\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
