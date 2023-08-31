@@ -12,7 +12,8 @@
   <Project Name="CodingExercise23" Path="CodingExercise23/CodingExercise23.project" Active="No"/>
   <Project Name="CodingExercise24" Path="CodingExercise24/CodingExercise24.project" Active="No"/>
   <Project Name="ArraysAndFunctions" Path="ArraysAndFunctions/ArraysAndFunctions.project" Active="No"/>
-  <Project Name="CodingExercise25" Path="CodingExercise25/CodingExercise25.project" Active="Yes"/>
+  <Project Name="CodingExercise25" Path="CodingExercise25/CodingExercise25.project" Active="No"/>
+  <Project Name="PassByReference" Path="PassByReference/PassByReference.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -29,6 +30,7 @@
       <Project Name="CodingExercise24" ConfigName="Debug"/>
       <Project Name="ArraysAndFunctions" ConfigName="Debug"/>
       <Project Name="CodingExercise25" ConfigName="Debug"/>
+      <Project Name="PassByReference" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -45,6 +47,7 @@
       <Project Name="CodingExercise24" ConfigName="Release"/>
       <Project Name="ArraysAndFunctions" ConfigName="Release"/>
       <Project Name="CodingExercise25" ConfigName="Release"/>
+      <Project Name="PassByReference" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

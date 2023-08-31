@@ -1,4 +1,8 @@
 [{
+  "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\PassByReference\\main.cpp",
+  "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\PassByReference",
+  "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\PassByReference\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\PassByReference\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\CodingExercise25\\main.cpp",
   "directory": "C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\CodingExercise25",
   "command": "\"C:/MinGW/bin/g++ -std=c++11 -finput-charset=UTF-8 -fexec-charset=UTF-8 -o \"$(OutDir)/$(TargetName)\" $(Sources)\" -c \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\CodingExercise25\\main.cpp\" -o \"C:\\udemy matskut\\beginning-c-plus-plus-programming\\Section11\\CodingExercise25\\main.cpp\".o  -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
