@@ -4,6 +4,7 @@ C:\udemy matskut\beginning-c-plus-plus-programming\Section11\FunctionDefinitions
 C:\udemy matskut\beginning-c-plus-plus-programming\Section11\CodingExercise23\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section11\FunctionParameters\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section11\Random\main.cpp
+C:\udemy matskut\beginning-c-plus-plus-programming\Section11\CodingExercise24\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section11\Hiekkalaatikko\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section11\CodingExercise21\main.cpp
 C:\udemy matskut\beginning-c-plus-plus-programming\Section11\DefaultArguments\main.cpp

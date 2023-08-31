@@ -9,7 +9,8 @@
   <Project Name="FunctionParameters" Path="FunctionParameters/FunctionParameters.project" Active="No"/>
   <Project Name="CodingExercise22" Path="CodingExercise22/CodingExercise22.project" Active="No"/>
   <Project Name="DefaultArguments" Path="DefaultArguments/DefaultArguments.project" Active="No"/>
-  <Project Name="CodingExercise23" Path="CodingExercise23/CodingExercise23.project" Active="Yes"/>
+  <Project Name="CodingExercise23" Path="CodingExercise23/CodingExercise23.project" Active="No"/>
+  <Project Name="CodingExercise24" Path="CodingExercise24/CodingExercise24.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -23,6 +24,7 @@
       <Project Name="CodingExercise22" ConfigName="Debug"/>
       <Project Name="DefaultArguments" ConfigName="Debug"/>
       <Project Name="CodingExercise23" ConfigName="Debug"/>
+      <Project Name="CodingExercise24" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -36,6 +38,7 @@
       <Project Name="CodingExercise22" ConfigName="Release"/>
       <Project Name="DefaultArguments" ConfigName="Release"/>
       <Project Name="CodingExercise23" ConfigName="Release"/>
+      <Project Name="CodingExercise24" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
